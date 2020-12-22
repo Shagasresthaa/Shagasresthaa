@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 🌱 I’m currently learning React JS, Python, Flask and Postgres DB
 
 📫 You can reach me at shagasresthaa@gmail.com
+
+🤝 Open for any collaboration on Open Source Projects
