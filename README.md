@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on IOT, Python and Web Technologies
   
-🌱 I’m currently learning React JS, Python, Flask and Postgres DB
+🌱 I’m currently learning Django, Python, Flask and Postgres DB
 
 📫 You can reach me at shagasresthaa@gmail.com
-
-🤝 Open for any collaboration on Open Source Projects
