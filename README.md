@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on IOT, Python and Web Technologies
+🔭 I’m currently working on IOT, Python and Full Stack Technologies
   
-🌱 I’m currently learning Django, Python, Flask and Postgres DB
+🌱 I’m currently learning Full Stack Development and Systems Administration
 
 📫 You can reach me at shagasresthaa@gmail.com
+
+🌐 Checkout my portfolio/blog @ https://www.sresthaa.com
