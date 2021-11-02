@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Shagasresthaa/Shagasresthaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Hi there 👋
+
 🔭 I’m currently working on IOT, Python and Full Stack Technologies
   
 🌱 I’m currently learning Full Stack Development and Systems Administration
@@ -21,3 +21,10 @@ Here are some ideas to get you started:
 📫 You can reach me at shagasresthaa@gmail.com
 
 🌐 Checkout my portfolio/blog @ https://www.sresthaa.com
+
+### 📈 Stats:
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shagasresthaa&langs_count=9&theme=github_dark) 
+<!--&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=Shagasresthaa&show_icons=true)-->
+
