@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 <a href="https://www.sresthaa.com"><img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white"></img></a>
 <a href="https://twitter.com/ShagaSresthaa"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
 
-# Website Status: <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></img>
-
 ## Tools and Technologies
 
 <a><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img></a>
