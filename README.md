@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-🧍 My name is Shaga Sresthaa. I'm a Software Engineer
+🧍 My name is Shaga Sresthaa. I'm a Software Engineer currently working at Tata Consultancy Services
 
 🔭 I’m currently working on IOT, Python and Full Stack Technologies
   
