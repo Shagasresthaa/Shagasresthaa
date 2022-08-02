@@ -1,24 +1,10 @@
-<!--
-**Shagasresthaa/Shagasresthaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- : ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hi there 👋
 
 🧍 My name is Shaga Sresthaa. I'm a Software Engineer currently working at Tata Consultancy Services
 
-🔭 I’m currently working on IOT, Python and Full Stack Technologies
-  
-🌱 I’m currently learning Full Stack Development and Systems Administration
+👨‍💻 I’m a full stack developer by profession and IoT/Cloud Developer when working on own
+
+🔭 I also love exploring and working with new technologies 
 
 # Connect with me 
 
@@ -41,7 +27,6 @@ Here are some ideas to get you started:
 ## OS
 <a><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></img></a>
 <a><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img></a>
-<a><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></img></a>
 
 ### 📈 Stats:
 
