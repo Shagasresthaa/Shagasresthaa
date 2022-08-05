@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 🧍 My name is Shaga Sresthaa. I'm a Software Engineer currently working at Tata Consultancy Services
 
