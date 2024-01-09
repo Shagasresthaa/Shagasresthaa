@@ -1,8 +1,8 @@
 ### Hi there 
 
-🧍 My name is Shaga Sresthaa. I'm a Software Engineer currently working at Tata Consultancy Services
+🧍 My name is Shaga Sresthaa. I'm a Student currently pursuing Masters in Computer Science at Western Michigan University.
 
-👨‍💻 I’m a full stack developer by profession and IoT/Cloud Developer when working on own
+👨‍💻 I have worked as a full stack developer while working as an Assistant Systems Engineer at Tata Consultancy Services and IoT/Cloud Developer when working on own.
 
 🔭 I also love exploring and working with new technologies 
 
