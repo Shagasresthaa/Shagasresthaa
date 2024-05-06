@@ -1,35 +1,39 @@
-### Hi there 
+# Hello, I'm Shaga Sresthaa! 👋
 
-🧍 My name is Shaga Sresthaa. I'm a Student currently pursuing Masters in Computer Science at Western Michigan University.
+I'm currently pursuing my Master's degree in Computer Science at Western Michigan University, driven by my passion for technology and innovation.
 
-👨‍💻 I have worked as a full stack developer while working as an Assistant Systems Engineer at Tata Consultancy Services and IoT/Cloud Developer when working on own.
+## 📫 Get in Touch
 
-🔭 I also love exploring and working with new technologies 
+- Email: [shagasresthaa@gmail.com](mailto:shagasresthaa@gmail.com)
+- LinkedIn: [Shaga Sresthaa](https://www.linkedin.com/in/shaga-sresthaa/)
+- Website: [sresthaa.com](https://www.sresthaa.com)
+- Twitter: [@ShagaSresthaa](https://twitter.com/ShagaSresthaa)
 
-# Connect with me 
+## 💼 Experience
 
-<a href="mailto:shagasresthaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-<a href="https://www.linkedin.com/in/shaga-sresthaa-a5329b154/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="https://www.sresthaa.com"><img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white"></img></a>
-<a href="https://twitter.com/ShagaSresthaa"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
+### Tata Consultancy Services
+*Assistant Systems Engineer*  
+May, 2023 - November, 2023
 
-## Tools and Technologies
+### Skillbanc Inc
+*Python Developer Intern*  
+December, 2021 - November, 2023
 
-<a><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img></a>
-<a><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img></a>
-<a><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></img></a>
-<a><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></img></a>
-<a><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></img></a>
-<a><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></img></a>
-<a><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></img></a>
+### I Assist Innovation Labs
+*Python/ML Developer Intern*  
+August, 2020 - January, 2021
 
-## OS
-<a><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></img></a>
-<a><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img></a>
+### CoreGlobal IT
+*Game Developer Intern*  
+May, 2019 - June, 2019
 
-### 📈 Stats:
+## 💻 Skills
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shagasresthaa&langs_count=9&theme=github_dark) 
-<!--&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=Shagasresthaa&show_icons=true)-->
+- Languages: C, Java, Javascript, Typescript, Python
+- Frameworks: Django, Flask, Angular JS, Vue JS, React JS, Spring Boot
+- Databases: PostgreSQL, Oracle, MySQL
+- Cloud Platforms: Amazon AWS, Oracle Cloud
 
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shagasresthaa&layout=compact&hide=jupyter%20notebook)
