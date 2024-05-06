@@ -9,30 +9,30 @@ I'm currently pursuing my Master's degree in Computer Science at Western Michiga
 - Website: [sresthaa.com](https://www.sresthaa.com)
 - Twitter: [@ShagaSresthaa](https://twitter.com/ShagaSresthaa)
 
+## 🌟 Featured Projects
+
+### 🌌 Astronomical Objects Classifier
+This project classifies galaxies, stars, and quasars using CNNs and SDSS data.  
+🔗 [View Repository](https://github.com/Shagasresthaa/AstronomicalObjectsClassifier)
+
+### 🌤 IoT-based Weather Monitoring System (Legacy)
+A weather monitoring system with ESP32 and a Python Flask REST API, accessible via a dashboard.  
+🔗 [View Repository](https://github.com/Shagasresthaa/IoT-based-Weather-Monitoring-System/tree/legacy)
+
 ## 💼 Experience
 
-### Tata Consultancy Services
-*Assistant Systems Engineer*  
-May, 2023 - November, 2023
-
-### Skillbanc Inc
-*Python Developer Intern*  
-December, 2021 - November, 2023
-
-### I Assist Innovation Labs
-*Python/ML Developer Intern*  
-August, 2020 - January, 2021
-
-### CoreGlobal IT
-*Game Developer Intern*  
-May, 2019 - June, 2019
+| Role | Company | Duration |
+|:------:|:---------:|:----------:|
+| Assistant Systems Engineer | Tata Consultancy Services | Dec 2021 - Nov 2023 |
+| Python Developer Intern | Skillbanc Inc | Aug 2020 - Jan 2021 |
+| Python/ML Developer Intern | I Assist Innovation Labs | March 2020 - Aug 2020 |
+| Game Developer Intern | CoreGlobal IT | May 2019 - Jun 2019 |
 
 ## 💻 Skills
 
-- Languages: C, Java, Javascript, Typescript, Python
-- Frameworks: Django, Flask, Angular JS, Vue JS, React JS, Spring Boot
-- Databases: PostgreSQL, Oracle, MySQL
-- Cloud Platforms: Amazon AWS, Oracle Cloud
+| Languages | Frameworks | Databases | Cloud Platforms |
+|:---------:|:----------:|:---------:|:---------------:|
+| C, Java, Javascript, Typescript, Python | Django, Flask, Angular JS, Vue JS, React JS, Spring Boot | PostgreSQL, Oracle, MySQL | Amazon AWS, Oracle Cloud |
 
 ## 📊 GitHub Stats
 
