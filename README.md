@@ -5,7 +5,7 @@ I'm currently pursuing my Master's degree in Computer Science at Western Michiga
 ## 📫 Get in Touch
 
 - Email: [shagasresthaa@gmail.com](mailto:shagasresthaa@gmail.com)
-- LinkedIn: [Shaga Sresthaa](https://www.linkedin.com/in/shaga-sresthaa/)
+- LinkedIn: [Shaga Sresthaa](https://www.linkedin.com/in/sresthaa-shaga-a5329b154)
 - Website: [sresthaa.com](https://www.sresthaa.com)
 - Twitter: [@ShagaSresthaa](https://twitter.com/ShagaSresthaa)
 
