@@ -36,4 +36,4 @@ A weather monitoring system with ESP32 and a Python Flask REST API, accessible v
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shagasresthaa&layout=compact&hide=jupyter%20notebook)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shagasresthaa&layout=compact&hide=jupyter%20notebook,HTML,css)
