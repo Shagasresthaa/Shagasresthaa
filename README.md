@@ -26,7 +26,7 @@ A weather monitoring system with ESP32 and a Python Flask REST API, accessible v
 ## 🌟 Current Projects I'm Working On
 
 ### 🪐 ORBITS Library
-This project aims to provide an accurate enough API to simulate and research orbits and orbital mechanics and personally a way to understand better the 2-body, 3 body and body problems   
+This project aims to provide an accurate enough API to simulate and research orbits and orbital mechanics and personally a way to understand better the 2-body, 3 body and N-body problems   
 🔗 [View Repository](https://github.com/Shagasresthaa/ORBITS_Library)
 
 ### 📐 CALMAT_LIB
