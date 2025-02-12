@@ -12,7 +12,7 @@ I'm currently pursuing my Master's degree in Computer Science at Western Michiga
 ## 🌟 Featured Projects
 
 ### 🌑 Exoplanet Detection using Multimodel Neural Networks
-This project is an early attempt to try to classify if a light curve of transit could be an exoplanetary transit candidate. A revamp will be made soon when time permits!
+This project is an early attempt to try to classify if a light curve of transit could be an exoplanetary transit candidate. A revamp will be made soon when time permits!   
 🔗 [View Repository](https://github.com/Shagasresthaa/ExoplanetDetectionNetwork)
 
 ### 🌌 Astronomical Objects Classifier
@@ -26,11 +26,11 @@ A weather monitoring system with ESP32 and a Python Flask REST API, accessible v
 ## 🌟 Current Projects I'm Working On
 
 ### 🪐 ORBITS Library
-This project aims to provide an accurate enough API to simulate and research orbits and orbital mechanics and personally a way to understand better the 2-body, 3 body and body problems
+This project aims to provide an accurate enough API to simulate and research orbits and orbital mechanics and personally a way to understand better the 2-body, 3 body and body problems   
 🔗 [View Repository](https://github.com/Shagasresthaa/ORBITS_Library)
 
 ### 📐 CALMAT_LIB
-This project aims to provide an accurate enough API for performing basic to advanced math calculus functions and beyond
+This project aims to provide an accurate enough API for performing basic to advanced math calculus functions and beyond   
 🔗 [View Repository](https://github.com/Shagasresthaa/CALMAT_LIB)
 
 ## 💼 Experience
