@@ -15,7 +15,7 @@ I'm currently pursuing my Master's degree in Computer Science at Western Michiga
 This project is an early attempt to try to classify if a light curve of transit could be an exoplanetary transit candidate. A revamp will be made soon when time permits!   
 🔗 [View Repository](https://github.com/Shagasresthaa/ExoplanetDetectionNetwork)
 
-### 🌌 Astronomical Objects Classifier
+### 🌌 Astronomical Objects Classifier using Convolutional Neural Networks and Multimodal Techniques
 This project classifies galaxies, stars, and quasars using CNNs and SDSS data.  
 🔗 [View Repository](https://github.com/Shagasresthaa/AstronomicalObjectsClassifier)
 
