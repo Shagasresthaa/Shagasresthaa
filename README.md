@@ -1,6 +1,6 @@
-# Hello, I'm Shaga Sresthaa! 👋
+# Greetings, I'm Shaga Sresthaa! 👋
 
-I'm currently pursuing my Master's degree in Computer Science at Western Michigan University, driven by my passion for technology and innovation.
+I'm currently pursuing my Master's degree in Computer Science at Western Michigan University, driven by my passion for technology and innovation. My current focus in studies has been on Artificial Intelligence, Computational Astrophysics, and Astronomy.
 
 ## 📫 Get in Touch
 
@@ -46,7 +46,7 @@ This project aims to provide an accurate enough API for performing basic to adva
 
 | Languages | Frameworks | Databases | Cloud Platforms |
 |:---------:|:----------:|:---------:|:---------------:|
-| C, Java, Javascript, Typescript, Python | Django, Flask, Angular JS, Vue JS, React JS, Spring Boot | PostgreSQL, Oracle, MySQL | Amazon AWS, Oracle Cloud |
+| C, C++, Java, Javascript, Typescript, Python | Django, Flask, Angular JS, Vue JS, React JS, Spring Boot, Pytorch | PostgreSQL, Oracle, MySQL | Amazon AWS, Oracle Cloud (OCI) |
 
 ## 📊 GitHub Stats
 
