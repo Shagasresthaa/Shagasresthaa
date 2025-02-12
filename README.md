@@ -34,7 +34,7 @@ This project aims to provide an accurate enough API for performing basic to adva
 🔗 [View Repository](https://github.com/Shagasresthaa/CALMAT_LIB)
 
 ### 🛠️ Portfolio Website Revamp
-Just my website I run for showcasing projects and as a fun project. Currently under rework from scratch to transition from legacy Django codebase to a robust probably overkill full-stack application and to expand its scope to also act as my Blog and Articles Display page.
+Just my website I run for showcasing projects and as a fun project. Currently under rework from scratch to transition from legacy Django codebase to a robust probably overkill microservice containerized full-stack application and to expand its scope to also act as my Blog and Articles Display page.
 
 ## 💼 Experience
 
