@@ -1,56 +1,87 @@
-# Greetings, I'm Shaga Sresthaa! 👋
 
-I'm currently pursuing my Master's degree in Computer Science at Western Michigan University, driven by my passion for technology and innovation. My current focus in studies has been on Artificial Intelligence, Computational Astrophysics, and Astronomy.
+#### **`gentooHost login: sresthaa`** <br> **`password: ************`** <br><br> **`Last login: Fri Oct  3 11:47:59 2025 from 127.0.0.1`**
 
-## 📫 Get in Touch
+#### **`> sresthaa@gentooHost ~ $ echo $SUMMARY`**
 
-- Email: [shagasresthaa17@gmail.com](mailto:shagasresthaa17@gmail.com)
-- LinkedIn: [Shaga Sresthaa](https://www.linkedin.com/in/sresthaa-shaga)
-- Website: [sresthaa.com](https://www.sresthaa.com)
-- Twitter: [@ShagaSresthaa](https://twitter.com/ShagaSresthaa)
+### Greetings, I'm Sresthaa!
+<p align="justify">I'm a Master's Student currently pursuing my Degree in the field of Computer Science at Western Michigan University. My focus on the core study is varied in various fields with the common target being the application of said skills in InterDisciplinary Fields. My primary areas of study are in Low Level Systems Design, Embedded Systems, Artificial Intelligence Applications and High Performance Computing. Im currently set to Graduate in April, 2026 with possible plans of a future PhD. I have worked across various fields from AI applications in Astronomy to On Prem Administration as a part of my University Developer Club to Full Stack Development and DevOps with Enterprise Systems of Oracle and AWS. I'm always excited to learn more about interdisciplinary applications of Computer Science and put said skills to use by challenging myself in various ways by means of projects or employment or academic contexts. Wanna connect with me? Do drop a Follow or Connection Request on LinkedIn or even drop an Email! Cheers! </p>
 
-## 🌟 Featured Projects
+#### ✔ **`> sresthaa@gentooHost ~ $ `**
 
-### 🌑 Exoplanet Detection using Multimodel Neural Networks
-This project is an early attempt to try to classify if a light curve of transit could be an exoplanetary transit candidate. A revamp will be made soon when time permits!   
-🔗 [View Repository](https://github.com/Shagasresthaa/ExoplanetDetectionNetwork)
+---
+#### **`> sresthaa@gentooHost ~ $ echo $CONTACT`**
 
-### 🌌 Astronomical Objects Classifier using Convolutional Neural Networks and Multimodal Techniques
-This project classifies galaxies, stars, and quasars using CNNs and SDSS data.  
-🔗 [View Repository](https://github.com/Shagasresthaa/AstronomicalObjectsClassifier)
+- Email: [shagasresthaa17@gmail.com](mailto:shagasresthaa17@gmail.com)  
+- LinkedIn: [Shaga Sresthaa](https://www.linkedin.com/in/sresthaa-shaga)  
+- Website: [sresthaa.com](https://www.sresthaa.com)  
+- Instagram: [@sresthaa17](https://www.instagram.com/sresthaa17/)
 
-### 🌤 IoT-based Weather Monitoring System (Legacy)
+#### ✔ **`> sresthaa@gentooHost ~ $ `**
+
+---
+
+#### **`> sresthaa@gentooHost ~ $ echo $FEATURED_PROJECTS`**
+
+### Exoplanet Detection using Multimodel Neural Networks
+An early attempt to classify if a light curve could be an exoplanetary transit candidate. A major revamp is planned.  
+[View Repository](https://github.com/Shagasresthaa/ExoplanetDetectionNetwork)
+
+### Astronomical Objects Classifier using CNNs and Multimodal Techniques
+Classifies galaxies, stars, and quasars using SDSS data and convolutional neural networks.  
+[View Repository](https://github.com/Shagasresthaa/AstronomicalObjectsClassifier)
+
+### IoT-based Weather Monitoring System (Legacy)
 A weather monitoring system with ESP32 and a Python Flask REST API, accessible via a dashboard.  
-🔗 [View Repository](https://github.com/Shagasresthaa/IoT-based-Weather-Monitoring-System/tree/legacy)
+[View Repository](https://github.com/Shagasresthaa/IoT-based-Weather-Monitoring-System/tree/legacy)
 
-## 🌟 Current Projects I'm Working On
+#### ✔ **`> sresthaa@gentooHost ~ $ `**
 
-### 🪐 ORBITS Library
-This project aims to provide an accurate enough API to simulate and research orbits and orbital mechanics and personally a way to understand better the 2-body, 3 body and N-body problems   
-🔗 [View Repository](https://github.com/Shagasresthaa/ORBITS_Library)
+---
+#### **`> sresthaa@gentooHost ~ $ echo $CURRENT_PROJECTS`**
 
-### 📐 CALMAT_LIB
-This project aims to provide an accurate enough API for performing basic to advanced math calculus functions and beyond   
-🔗 [View Repository](https://github.com/Shagasresthaa/CALMAT_LIB)
 
-### 🛠️ Portfolio Website Revamp
-Just my personal website for showcasing projects and having fun! Currently rebuilding it from scratch, transitioning from a legacy Django codebase to a (probably overkill) microservice-based containerized full-stack application. Also expanding it to host my blog and articles.  
+### GPU Accelerated Computational Fluid Dynamics (CUDA Implementation of Navier Stokes Solver)
+A CUDA implementation for a Navier Stokes solver for CFD (Computational Fluid Dynamics) simulations in order to study effects of sequential vs parallel, the benefits of parallelization, bottlenecks, etc. 
+[View Repository](https://github.com/Shagasresthaa/GPUAcceleratedCFD_CUDA_NavierStokes_Solver)
 
-## 💼 Experience
+### ORBITS Library
+A C++ library to simulate and research orbital mechanics — covering two-body, three-body, and N-body problems.  
+[View Repository](https://github.com/Shagasresthaa/ORBITS_Library)
 
-| Role | Company | Duration |
-|:------:|:---------:|:----------:|
-| Assistant Systems Engineer | Tata Consultancy Services | Dec 2021 - Nov 2023 |
-| Python Developer Intern | Skillbanc Inc | Aug 2020 - Jan 2021 |
-| Python/ML Developer Intern | I Assist Innovation Labs | March 2020 - Aug 2020 |
-| Game Developer Intern | CoreGlobal IT | May 2019 - Jun 2019 |
+### CALMAT_LIB (Planning)
+A math library providing APIs for calculus and advanced mathematical functions.  
+[View Repository](https://github.com/Shagasresthaa/CALMAT_LIB)
 
-## 💻 Skills
+### Portfolio Website Revamp
+A complete rebuild of my personal site — transitioning from a legacy Django codebase to a containerized microservice architecture <b>(experimental) !</b>.
 
-| Languages | Frameworks | Databases | Cloud Platforms |
-|:---------:|:----------:|:---------:|:---------------:|
-| C, C++, Java, Javascript, Typescript, Python | Django, Flask, Angular JS, Vue JS, React JS, Spring Boot, Pytorch | PostgreSQL, Oracle, MySQL | Amazon AWS, Oracle Cloud (OCI) |
+#### ✔ **`> sresthaa@gentooHost ~ $ `**
+---
+#### **`> sresthaa@gentooHost ~ $ echo $EXPERIENCE`**
 
-## 📊 GitHub Stats
+| Role                       | Company                    | Duration             |
+|----------------------------|----------------------------|----------------------|
+| Head Lead Dev (Systems Community) | WMU Developer Club (RSO)  | Mar 2025 - Present |
+| Lead Dev (Web Community) | WMU Developer Club (RSO)  | Mar 2025 - Present |
+| Assistant Systems Engineer | Tata Consultancy Services  | Dec 2021 - Nov 2023 |
+| Python Developer Intern    | Skillbanc Inc             | Aug 2020 - Jan 2021 |
+| Python/ML Intern           | I Assist Innovation Labs   | Mar 2020 - Aug 2020 |
+| Game Developer Intern      | CoreGlobal IT             | May 2019 - Jun 2019 |
+
+#### ✔ **`> sresthaa@gentooHost ~ $ `**
+---
+#### **`> sresthaa@gentooHost ~ $ echo $SKILLS`**
+
+| Languages                     | Frameworks                              | Databases                     | Cloud Platforms              | Hardware                          |
+|-------------------------------|------------------------------------------|-------------------------------|-----------------------------|------------------------------------|
+| C, C++, Java, JavaScript, TypeScript, Python, Go, Bash | Django, Flask, AngularJS, Vue.js, React, Spring Boot, PyTorch | PostgreSQL, Oracle, MySQL | AWS, Oracle Cloud (OCI) | ESP32/ESP8266, STM32, Arduino, Raspberry Pi |
+
+
+#### ✔ **`> sresthaa@gentooHost ~ $ `**
+---
+
+#### **`> sresthaa@gentooHost ~ $ fastfetch`**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shagasresthaa&layout=compact&hide=jupyter%20notebook,HTML,css)
+
+#### ✔ **`> sresthaa@gentooHost ~ $ `**
