@@ -39,7 +39,7 @@ A CUDA implementation for a Advection Diffusion solver for CFD (Computational Fl
 [View Repository](https://github.com/Shagasresthaa/GPUAcceleratedCFD_CUDA_Advection_Diffusion_Solver)
 
 ### Portfolio Website 
-A complete rebuild of my personal site currently based on T3 Stack and is Feature Complete although actively maintained for patches and I/UX enhancements!</b>.
+A complete rebuild of my personal site currently based on T3 Stack and is Feature Complete although actively maintained for patches and UI/UX enhancements!</b>.
 
 #### ✔ **`> sresthaa@gentooHost ~ $ `**
 
