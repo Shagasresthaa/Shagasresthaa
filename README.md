@@ -1,10 +1,10 @@
 
-#### **`gentooHost login: sresthaa`** <br> **`password: ************`** <br><br> **`Last login: Fri Oct  3 11:47:59 2025 from 127.0.0.1`**
+#### **`gentooHost login: sresthaa`** <br> **`password: ************`** <br><br> **`Last login: Sun Dec  14 12:22:59 2025 from 127.0.0.1`**
 
 #### **`> sresthaa@gentooHost ~ $ echo $SUMMARY`**
 
 ### Greetings, I'm Sresthaa!
-<p align="justify">I'm a Master's Student currently pursuing my Degree in the field of Computer Science at Western Michigan University. My focus on the core study is varied in various fields with the common target being the application of said skills in InterDisciplinary Fields. My primary areas of study are in Low Level Systems Design, Embedded Systems, Artificial Intelligence Applications and High Performance Computing. Im currently set to Graduate in April, 2026 with possible plans of a future PhD. I have worked across various fields from AI applications in Astronomy to On Prem Administration as a part of my University Developer Club to Full Stack Development and DevOps with Enterprise Systems of Oracle and AWS. I'm always excited to learn more about interdisciplinary applications of Computer Science and put said skills to use by challenging myself in various ways by means of projects or employment or academic contexts. Wanna connect with me? Do drop a Follow or Connection Request on LinkedIn or even drop an Email! Cheers! </p>
+<p align="justify">I'm a Master's Student currently pursuing my Degree in the field of Computer Science at Western Michigan University. My focus on the core study is varied in various fields with the common target being the application of said skills in InterDisciplinary Fields. My primary areas of study are in Low Level Systems Design, Embedded Systems, Artificial Intelligence Applications and High Performance Computing. I have worked across various fields from AI applications in Astronomy to On Prem Administration as a part of my University Developer Club to Full Stack Development and DevOps with Enterprise Systems of Oracle and AWS. I'm always excited to learn more about interdisciplinary applications of Computer Science and put said skills to use by challenging myself in various ways by means of projects or employment or academic contexts. Wanna connect with me? Do drop a Follow or Connection Request on LinkedIn or even drop an Email! Cheers! </p>
 
 #### ✔ **`> sresthaa@gentooHost ~ $ `**
 
@@ -34,26 +34,22 @@ Classifies galaxies, stars, and quasars using SDSS data and convolutional neural
 A weather monitoring system with ESP32 and a Python Flask REST API, accessible via a dashboard.  
 [View Repository](https://github.com/Shagasresthaa/IoT-based-Weather-Monitoring-System/tree/legacy)
 
+### GPU Accelerated Computational Fluid Dynamics (CUDA Implementation of Advection Diffusion Solver)
+A CUDA implementation for a Advection Diffusion solver for CFD (Computational Fluid Dynamics) simulations in order to study effects of sequential vs parallel, the benefits of parallelization, bottlenecks, etc. 
+[View Repository](https://github.com/Shagasresthaa/GPUAcceleratedCFD_CUDA_Advection_Diffusion_Solver)
+
+### Portfolio Website 
+A complete rebuild of my personal site currently based on T3 Stack and is Feature Complete although actively maintained for patches and I/UX enhancements!</b>.
+
 #### ✔ **`> sresthaa@gentooHost ~ $ `**
 
 ---
 #### **`> sresthaa@gentooHost ~ $ echo $CURRENT_PROJECTS`**
 
 
-### GPU Accelerated Computational Fluid Dynamics (CUDA Implementation of Navier Stokes Solver)
-A CUDA implementation for a Navier Stokes solver for CFD (Computational Fluid Dynamics) simulations in order to study effects of sequential vs parallel, the benefits of parallelization, bottlenecks, etc. 
-[View Repository](https://github.com/Shagasresthaa/GPUAcceleratedCFD_CUDA_NavierStokes_Solver)
-
 ### ORBITS Library
-A C++ library to simulate and research orbital mechanics — covering two-body, three-body, and N-body problems.  
+A C++ library to simulate and research orbital mechanics for N-body problems.  
 [View Repository](https://github.com/Shagasresthaa/ORBITS_Library)
-
-### CALMAT_LIB (Planning)
-A math library providing APIs for calculus and advanced mathematical functions.  
-[View Repository](https://github.com/Shagasresthaa/CALMAT_LIB)
-
-### Portfolio Website Revamp
-A complete rebuild of my personal site — transitioning from a legacy Django codebase to a containerized microservice architecture <b>(experimental) !</b>.
 
 #### ✔ **`> sresthaa@gentooHost ~ $ `**
 ---
