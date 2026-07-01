@@ -54,4 +54,4 @@ A C++ library to simulate and research orbital mechanics for N-body problems.
 |-------------------------------|------------------------------------------|-------------------------------|-----------------------------|------------------------------------|
 | C, C++, Java, JavaScript, TypeScript, Python, Go, Bash | Django, Flask, AngularJS, Vue.js, React, Spring Boot, PyTorch | PostgreSQL, Oracle, MySQL | AWS, Oracle Cloud (OCI) | ESP32/ESP8266, STM32, Arduino, Raspberry Pi |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shagasresthaa&layout=compact&hide=jupyter%20notebook,HTML,css)
+![Top Langs](https://github-states-generator.vercel.app/api/top-langs/?username=Shagasresthaa&theme=tokyonight)
